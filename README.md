@@ -4,7 +4,7 @@
 <p align="center">
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+from+Córdoba,+Argentina;&center=true&width=360&height=30">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+from+Córdoba,+Argentina.;&center=true&width=360&height=30">
 </p>
 
 </a><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
