@@ -12,7 +12,7 @@
 ###  A little bit about me:
 - 🎓I'm currently studying Programming at the National Technological University of Villa María, Córdoba, Argentina.
 - 🌱 I’m currently learning about Devops Culture and Cloud Computing.
-- 👯 I am looking to learn Devops tools to implement them in different projects.
+- 💡 I am looking to learn Devops tools to implement them in different projects.
 - 💬 Ask me about Cloud Computing, Devops, Programming.
 - 🔭 I love spending time outdoor with mi friends and my dog Dana.
 ### Some tools that I am going to learn as devops are:
