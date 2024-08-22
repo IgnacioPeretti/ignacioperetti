@@ -25,7 +25,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## <b> Let's Connect..!</b><img src="" width ="80">
+## <b> Let's Connect..!
 <a href="https://linkedin.com/in/ignacioperetti" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  ignacioperetti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 
