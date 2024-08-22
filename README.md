@@ -6,7 +6,6 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Villa María,+Córdoba,+Argentina.;23+Years+Old.&width==500&height=50">
  
- </a><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 ###  A little bit about me:
 - 🎓I'm currently studying Programming at the National Technological University of Villa María, Córdoba, Argentina.
