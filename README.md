@@ -3,7 +3,11 @@
 <h1 align="center"><b>Hi , I'm Ignacio Peretti </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
+
+
  
+
+
 
 ###  A little bit about me:
 - 🎓I'm currently studying Programming at the National Technological University of Villa María, Córdoba, Argentina.
@@ -30,6 +34,8 @@
 <a href="ignacioperetti11@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  ignacioperetti11@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+
+
 
 
 
