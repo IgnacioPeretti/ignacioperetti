@@ -29,10 +29,11 @@
 
 ## <b> Let's Connect..!
 <a href="https://linkedin.com/in/ignacioperetti" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  ignacioperetti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ignacioperetti-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
-<a href="ignacioperetti11@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  ignacioperetti11@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:ignacioperetti11@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-ignacioperetti11@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
 
